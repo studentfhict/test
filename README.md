@@ -2,7 +2,7 @@
 
 |Folder|File explanation||
 |----------|----------------|-|
-|images |`Images that show the results from the model`|
+|images |`Images that show the results from the AI model`|
 |notebooks |`The actual notebook that I created including the dataset file`|
 |environment|`The environment used during training`|
 
@@ -25,4 +25,9 @@ Directory view
 │   ├── personal_challenge_twan.pdf
 │   ├── environment
 │   │   ├── ids-gpu-env.yaml
-```# PersonalChallenge
+```
+## Deployment
+
+To use this project unzip the dataset located in the notebook folder and check if the file reference within the notebook is still correct
+
+You might want to use the included environment that i used during the creation of this project. You can import the environment via Jupyter Notebook.
